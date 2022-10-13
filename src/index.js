@@ -1,4 +1,4 @@
-/**
+/** Hello
  * Copyright 2015 Google Inc. All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -102,7 +102,7 @@ async function saveMessage(messageText) {
 
 // Loads chat messages history and listens for upcoming ones.
 function loadMessages() {
-  
+
 }
 
 // Saves a new message containing an image in Firebase.
