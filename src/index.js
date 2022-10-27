@@ -364,7 +364,7 @@ mediaCaptureElement.addEventListener('change', onMediaFileSelected);
 
 // TODO 12: Initialize Firebase Performance Monitoring
 
-//initFirebaseAuth();
+initFirebaseAuth();
 loadMessages();
 
 const firebaseAppConfig = getFirebaseConfig();
